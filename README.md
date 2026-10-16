@@ -1,3 +1,10 @@
+> ⚠️ **已停止维护 · 不再继续更新**
+> 本模组不再更新：不会适配后续游戏版本，也不再修复问题。
+> 现有版本与说明保留在此，仅供存档与自行取用；游戏更新后可能失效。
+> This mod is no longer maintained. No further updates or compatibility fixes will be provided.
+
+---
+
 # GL-28 弹链榴弹发射器
 
 《绝地潜兵 2》Lua 注入型模组，针对 **GL-28 弹链式榴弹发射器**。仅依赖 **Bingus Shared Loader（API 1）**，不需要任何共享定位器。
